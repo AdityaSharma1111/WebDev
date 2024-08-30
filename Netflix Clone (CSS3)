@@ -11,7 +11,7 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: max(1200px, 100vw);
-    background-image: url(images/bgimage.jpg);
+    background-image: url(Source_images/bgimage.jpg);
     position: relative;
 }
 
